@@ -1,2 +1,2 @@
-# Terraform VPC Module
-This repository contains a Terraform module for creating and managing Virtual Private Clouds (VPCs) on AWS. The module is designed to be flexible and customizable, providing a standardized and reusable way to deploy VPCs with various configurations.
+# Terraform Lambda Module
+This repository contains a Terraform module for creating and managing Lambda (VPCs) on AWS. The module is designed to be flexible and customizable, providing a standardized and reusable way to deploy Lambda with various configurations.
